@@ -1,0 +1,945 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px)
+ {
+ 	/*header*/
+ 	.topbar{
+padding: 15px 0 15px;}
+ 	.top{
+	text-align: left;
+}
+.top p{
+	font-size: 14px;
+	padding-left: 0;
+	padding-right: 10px;
+}
+/*nav_bar*/
+.nav_bar{
+padding: 15px 0px 20px;
+}
+.menu{
+
+	text-align: right;
+}
+.menu ul li a{
+	margin-right: 5px;
+	padding: 5px 0;
+}
+.menu ul li a:hover{
+	border-bottom: none;
+}
+.btn-custome{
+padding-right: 5px !important;
+}
+/*banner start*/
+
+.banner{
+	min-height: 300px;
+	padding: 40px 0px 60px;
+}
+.ban_c{
+	margin-top: 0px;}
+	.ban_c h1{
+	font-size: 27px;}
+	.ban_c p{
+	width: 100%;
+margin-bottom: 25px;
+font-size: 15px;}
+	.s_btn{
+	padding: 10px 20px;}
+
+	/*consult*/
+	.consult{
+	padding: 20px 0 20px;}
+	.c_con p{
+	font-size: 22px}
+	.c_btn{
+		margin-top: 5px;
+	text-align: center;}
+	.c_btn button{
+	padding: 15px 80px;
+font-size: 20px}
+
+/*service start*/
+
+.service{
+	padding: 40px 0 60px;
+}
+
+.serv_con{
+margin: 20px 0 40px;
+}
+
+.serv_h1{
+	margin-bottom: 10px;
+font-size:35px;}
+
+.serv_p{
+	font-size: 15px;
+    color: #6d7396;
+    line-height: 25px;
+}
+.c_col{
+	margin-bottom: 10px;
+	text-align: center;
+}
+.c_h5{
+	font-size: 18px;
+	margin-bottom: 15px;}
+.c_p{
+	font-size: 15px;
+}
+.c_a{
+	font-size: 15px;
+}
+
+/*general start*/
+
+.g_icon{
+position: absolute;
+font-size: 50px;
+color: #C92624;
+bottom:105px;
+right:125px;
+}
+.g_icon:hover{
+	color: #F8F8F8;
+}
+.con{
+padding: 10px 0 20px;
+}
+.g_pic{
+text-align: center;
+margin-bottom: 20px;
+}
+.g_pic img{
+	width: auto;
+	
+}
+.g_box{
+margin:20px 0 0px;
+}
+.g_con{
+	text-align: center;
+}
+/*featured*/
+.featured{
+	padding: 30px 0 40px;
+}
+.serv_h1{
+	font-size: 25px;
+}
+.serv_pp{
+	font-size: 16px;
+}
+/*customer start*/
+
+.customer{
+padding: 30px 0 50px;
+}
+.cf_p{
+	text-align: center;
+}
+.cf_p img{
+width:auto;
+height:auto;
+}
+
+.cf_con{
+	text-align: center;
+margin: 15px 10px;
+}
+.cf_box{
+	margin-top: 50px;
+}
+/*number start*/
+
+.number{
+	padding: 15px 0;
+}
+.n_con h1{ 
+font-size: 25px;
+margin-bottom: 10px;}
+.n_con p{
+	font-size: 16px;
+}
+/*embedded start*/
+.embedded{
+	padding: 60px 0;
+}
+.emhp{
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+.emhp h6{
+font-size: 18px;
+line-height: 25px;}
+.embp p{
+	font-size: 16px;
+}
+.emb{
+	text-align: center;
+	margin: 20px 0;
+font-size: 16px}
+
+/*news start*/
+.ch_5{
+	font-size: 18px;
+}
+/*recent start*/
+
+.recent{
+	padding: 20px 0 40px;}
+
+.r1p{
+	margin-bottom: 25px;
+ margin-top: 30px;
+}
+.r_f{
+	margin:10px 0;
+	text-align: left;
+}
+.c_icon{
+	text-align: center;
+}
+.f_submit{
+	margin-top: 10px;
+}
+/*footer start*/
+.foot_m ul li a{
+	padding: 10px 0px !important;
+	text-align: center;}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header*/
+.topbar{
+padding: 15px 0 10px;}
+.top{
+	text-align: left;
+}
+.top p{
+	padding-left: 0;
+	padding-right: 10px;
+}
+/*nav_bar*/
+.nav_bar{
+padding: 20px 0px 30px;
+}
+.menu{
+
+	text-align: right;
+}
+.menu ul li a{
+	margin-right: 10px;
+	padding: 7px 0;
+}
+.menu ul li a:hover{
+	border-bottom: none;
+}
+.btn-custome{
+padding-right: 10px !important;
+}
+
+	/*banner start*/
+
+.banner{
+	padding: 60px 0 80px;
+}
+.ban_c{
+	margin-top: 40px;}
+	.ban_c h1{
+	font-size: 45px;}
+	.ban_c p{
+	width: 70%;}
+
+	/*consult*/
+	.consult{
+	padding: 20px 0 10px;}
+	.c_con p{
+	font-size: 18px}
+	.c_btn{
+		margin-top: 5px;
+	text-align: right;}
+	.c_btn button{
+	padding: 10px 20px;
+font-size: 16px}
+
+/*service start*/
+
+.service{
+	padding: 60px 0 80px;
+}
+
+.serv_con{
+margin: 30px 0 50px;
+}
+
+.serv_h1{
+	margin-bottom: 15px;
+font-size:35px;}
+
+.serv_p{
+	font-size: 15px;
+    color: #6d7396;
+    line-height: 20px;
+}
+
+.c_h5{
+	font-size: 18px;
+	margin-bottom: 20px;}
+.c_p{
+	font-size: 15px;
+}
+.c_a{
+	font-size: 15px;
+}
+
+/*general start*/
+.g_img img{
+	height: 100%;	
+}
+.g_icon{
+position: absolute;
+font-size: 70px;
+color: #F8F8F8;
+bottom:10px;
+right:70px;
+}
+.con{
+padding: 40px 0 40px;
+}
+.g_pic img{
+	width: auto;
+	
+}
+.g_box{
+margin:30px 0 0px;
+}
+.g_con{
+	margin-top: 10px;
+}
+/*featured*/
+.featured{
+	padding: 40px 0 60px;
+}
+.serv_pp{
+	font-size: 16px;
+}
+/*customer start*/
+
+.customer{
+padding: 40px 0 60px;
+}
+.cf_p{
+	text-align: center;
+}
+.cf_p img{
+width:auto;
+height:auto;
+}
+.cf_con p{
+font-size: 16px;
+}
+
+.cf_con{
+	text-align: center;
+margin: 20px 15px;
+}
+.cf_box{
+	margin-top: 70px;
+}
+/*number start*/
+
+.number{
+	padding: 30px 0;
+}
+.n_con h1{ 
+font-size: 30px;}
+.n_con p{
+	font-size: 16px;
+}
+/*embedded start*/
+.embedded{
+	padding: 60px 0;
+}
+.emhp{
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+.emhp h6{
+font-size: 20px;}
+.embp p{
+	font-size: 16px;
+}
+.emb{
+	text-align: center;
+	margin: 20px 0;
+font-size: 16px}
+
+/*news start*/
+.ch_5{
+	font-size: 14px;
+}
+/*recent start*/
+
+.recent{
+	padding: 40px 0 60px;}
+
+.r1p{
+	margin-bottom: 25px;
+ margin-top: 30px;
+}
+.r_f{
+	margin:10px 0;
+	text-align: left;
+}
+/*footer start*/
+.foot_m ul li a{
+	padding: 10px 0px !important;
+	text-align: right;}
+
+	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header*/
+.top{
+	text-align: left;
+}
+.top p{
+	font-size: 16px;
+	padding-left: 0;
+	padding-right: 10px;
+	
+}
+/*nav_bar*/
+.nav_bar{
+padding: 30px 0px 40px;
+}
+.menu{
+	text-align: right;
+}
+.menu ul li a{
+	padding: 10px 0;
+}
+.menu ul li a:hover{
+	border-bottom: none;
+}
+.btn-custome{
+padding-right: 20px !important;
+}
+	/*banner start*/
+
+.banner{
+	padding: 80px 0 100px;
+}
+.ban_c{
+	margin-top: 60px;}
+	.ban_c h1{
+	font-size: 45px;}
+	.ban_c p{
+	width: 70%;}
+
+	/*consult*/
+	.consult{
+	padding: 20px 0 20px;}
+	.c_con p{
+	font-size: 18px}
+	.c_btn{
+	text-align: left;}
+	.c_btn button{
+	padding: 5px 20px;
+font-size: 16px}
+
+/*service start*/
+
+.service{
+	padding: 80px 0 100px;
+}
+
+.serv_con{
+margin: 40px 0 60px;
+}
+
+.serv_h1{
+	margin-bottom: 20px;
+font-size:40px;}
+
+.serv_p{
+	font-size: 16px;
+    color: #6d7396;
+    line-height: 25px;
+}
+.c_h5{
+	margin-bottom: 20px;}
+.c_p{
+	font-size: 16px;
+}
+.c_a{
+	font-size: 16px;
+}
+/*general start*/
+.g_img img{
+	height: 100%;	
+}
+.g_icon{
+position: absolute;
+font-size: 50px;
+color: #F8F8F8;
+bottom:10px;
+right:40px;
+}
+.con{
+padding: 30px 0 30px;
+}
+.g_box{
+margin:20px 0 0px;
+}
+
+/*featured*/
+.featured{
+	padding: 60px 0 80px;
+}
+.serv_pp{
+	font-size: 16px;
+}
+/*customer start*/
+
+.customer{
+padding: 60px 0 80px;
+}
+.cf_p img{
+width:auto;
+height:auto;
+}
+.cf_con p{
+font-size: 16px;
+}
+
+.cf_con{
+margin: 30px 15px;
+}
+.cf_box{
+	margin-top: 100px;
+}
+/*number start*/
+
+.number{
+	padding: 40px 0;
+}
+.n_con h1{ 
+font-size: 40px;}
+.n_con p{
+	font-size: 16px;
+}
+/*embedded start*/
+.embedded{
+	padding: 70px 0;
+}
+.emb{
+	text-align: center;
+	margin-top: 40px;
+margin-right: 10px;
+font-size: 16px}
+	.emhp h6{
+font-size: 20px;}
+.embp p{
+	font-size: 16px;
+}
+/*news start*/
+.ch_5{
+	font-size: 20px;
+}
+/*recent start*/
+
+.recent{
+	padding: 60px 0 80px;}
+.r1p{
+ margin-top: 50px;
+ margin-bottom: 25px;
+}
+
+/*footer start*/
+.foot_m ul li a{
+	padding: 10px 0px !important;
+	text-align: right;}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header*/
+.top{
+	text-align: right;
+}
+.top p{
+	font-size: 16px;
+	padding-left: 0;
+	padding-right: 10px;
+	
+}
+/*nav_bar*/
+.nav_bar{
+padding: 30px 0px 40px;
+}
+.menu{
+	text-align: right;
+}
+.menu ul li a{
+	padding: 10px 0;
+}
+.menu ul li a:hover{
+	border-bottom: none;
+}
+.btn-custome{
+padding-right: 20px !important;
+}
+	/*banner start*/
+
+.banner{
+	padding: 80px 0 100px;
+}
+.ban_c{
+	margin-top: 60px;}
+	.ban_c h1{
+	font-size: 45px;}
+	.ban_c p{
+	width: 70%;}
+
+	/*consult*/
+	.consult{
+	padding: 20px 0 20px;}
+	.c_con p{
+	font-size: 18px}
+	.c_btn{
+	text-align: left;}
+	.c_btn button{
+	padding: 5px 20px;
+font-size: 16px}
+
+/*service start*/
+
+.service{
+	padding: 80px 0 100px;
+}
+
+.serv_con{
+margin: 40px 0 60px;
+}
+
+.serv_h1{
+	margin-bottom: 20px;
+font-size:40px;}
+
+.serv_p{
+	font-size: 16px;
+    color: #6d7396;
+    line-height: 25px;
+}
+.c_h5{
+	margin-bottom: 20px;}
+.c_p{
+	font-size: 16px;
+}
+.c_a{
+	font-size: 16px;
+}
+/*general start*/
+.g_img img{
+	height: 100%;	
+}
+.g_icon{
+position: absolute;
+font-size: 50px;
+color: #F8F8F8;
+bottom:10px;
+right:40px;
+}
+.con{
+padding: 30px 0 30px;
+}
+.g_box{
+margin:20px 0 0px;
+}
+
+/*featured*/
+.featured{
+	padding: 60px 0 80px;
+}
+.serv_pp{
+	font-size: 16px;
+}
+/*customer start*/
+
+.customer{
+padding: 80px 0 100px;
+}
+.cf_con p{
+font-size: 16px;
+}
+.cf_p img{
+width:100% !important;
+
+}
+
+.cf_con{
+margin: 0px 25px 0 ;
+}
+.cf_box{
+	margin-top: 100px;
+}
+/*number start*/
+
+.number{
+	padding: 40px 0;
+}
+.n_con h1{ 
+font-size: 40px;}
+.n_con p{
+	font-size: 16px;
+}
+/*embedded start*/
+.embedded{
+	padding: 70px 0;
+}
+.emb {
+    text-align: center;
+    margin-top: 25px;
+margin-right: 10px;
+font-size: 16px}
+	.emhp h6{
+font-size: 17px;}
+.emhp p{
+	font-size: 16px; 
+}
+/*news start*/
+.ch_5{
+	font-size: 20px;
+}
+/*recent start*/
+
+.recent{
+	padding: 60px 0 80px;}
+.r1p{
+ margin-top: 50px;
+ margin-bottom: 25px;
+}
+
+/*footer start*/
+.foot_m ul li a{
+	font-size: 16px
+	padding: 0px 10px !important;
+	text-align: right;}
+}
+
+/*Extra large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) and (max-width: 2550.98px) {
+.top{
+	text-align: right;
+}
+.top p{
+	font-size: 16px;
+	padding-left: 0;
+	padding-right: 10px;
+	
+}
+/*nav_bar*/
+.nav_bar{
+padding: 30px 0px 40px;
+}
+.menu{
+	text-align: right;
+}
+.menu ul li a{
+	padding: 10px 0;
+}
+.menu ul li a:hover{
+	border-bottom: none;
+}
+.btn-custome{
+padding-right: 20px !important;
+}
+	/*banner start*/
+
+.banner{
+	padding: 80px 0 100px;
+}
+.ban_c{
+	margin-top: 60px;}
+	.ban_c h1{
+	font-size: 45px;}
+	.ban_c p{
+	width: 70%;}
+
+	/*consult*/
+	.consult{
+	padding: 20px 0 20px;}
+	.c_con p{
+	font-size: 18px}
+	.c_btn{
+	text-align: left;}
+	.c_btn button{
+	padding: 5px 20px;
+font-size: 16px}
+
+/*service start*/
+
+.service{
+	padding: 80px 0 100px;
+}
+
+.serv_con{
+margin: 40px 0 60px;
+}
+
+.serv_h1{
+	margin-bottom: 20px;
+font-size:40px;}
+
+.serv_p{
+	font-size: 16px;
+    color: #6d7396;
+    line-height: 25px;
+}
+.c_h5{
+	margin-bottom: 20px;}
+.c_p{
+	font-size: 16px;
+}
+.c_a{
+	font-size: 16px;
+}
+/*general start*/
+.g_img img{
+	height: 100%;	
+}
+.g_icon{
+position: absolute;
+font-size: 50px;
+color: #F8F8F8;
+bottom:10px;
+right:40px;
+}
+.con{
+padding: 80px 0 30px;
+
+}
+.g_box{
+margin:30px 0 0px;
+}
+.g_con h5{
+font-size: 30px;
+}
+
+/*featured*/
+.featured{
+	padding: 60px 0 80px;
+}
+.serv_pp{
+	font-size: 16px;
+}
+/*customer start*/
+
+.customer{
+padding: 80px 0 100px;
+}
+.cf_con p {
+    font-size: 18px;}
+.cf_p img{
+width:100% !important;
+
+}
+
+.cf_con{
+margin: 40px 25px 0 ;
+}
+.cf_box{
+	margin-top: 100px;
+}
+/*number start*/
+
+.number{
+	padding: 40px 0;
+}
+.n_con h1{ 
+font-size: 40px;}
+.n_con p{
+	font-size: 16px;
+}
+/*embedded start*/
+.embedded{
+	padding: 70px 0;
+}
+.emb {
+    text-align: center;
+    margin-top: 25px;
+margin-right: 10px;
+font-size: 16px}
+	.emhp h6{
+font-size: 17px;}
+.emhp p{
+	font-size: 16px; 
+}
+/*news start*/
+.ch_5{
+	font-size: 20px;
+}
+/*recent start*/
+
+.recent{
+	padding: 60px 0 80px;}
+.r1p{
+ margin-top: 50px;
+ margin-bottom: 25px;
+}
+
+/*footer start*/
+.foot_m ul li a{
+	font-size: 16px
+	padding: 0px 10px !important;
+	text-align: right;}
+
+}
+
+/*Extra extra extra large devices (large desktops, 255000px and up)*/
+@media (min-width: 2560px) and (max-width: 3550.98px)
+	{
+
+	/*general start*/
+.g_img img{
+	height: 100%;	
+}
+.g_icon{
+position: absolute;
+font-size: 50px;
+color: #F8F8F8;
+bottom:10px;
+right:40px;
+}
+.con{
+padding: 80px 0 30px;
+
+}
+.g_box{
+margin:100px 0 0px;
+}
+.g_con h5{
+font-size: 50px;
+}
+.g_con p{
+	font-size: 25px;
+	line-height: 35px;
+	}
+}
